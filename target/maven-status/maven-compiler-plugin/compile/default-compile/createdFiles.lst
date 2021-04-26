@@ -1,0 +1,7 @@
+garage\rest\IndexResource.class
+garage\enums\VehicleType.class
+garage\service\impl\GarageServiceImpl.class
+garage\GarageApplication.class
+garage\rest\ParkController.class
+garage\dto\ParkDto.class
+garage\service\GarageService.class
